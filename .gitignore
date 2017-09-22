@@ -1,0 +1,11 @@
+# intelij
+.idea
+.out
+*.iml
+
+# bytecode
+*.class
+
+# os specific
+*~
+.DS_Store
